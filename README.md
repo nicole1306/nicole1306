@@ -36,9 +36,9 @@ Here are some ideas to get you started:
  
 ## Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](linkedin.com/in/nicole-sousa-60981a1a7)
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](instagram.com/nikki_am_pj)
-[<img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white'>](behance.net/nicolesousa8)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/nicole-sousa-60981a1a7)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/nikki_am_pj/)
+[<img src='https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white'>](https://www.behance.net/nicolesousa8)
 
       
       
